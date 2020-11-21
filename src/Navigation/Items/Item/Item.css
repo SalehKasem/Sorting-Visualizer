@@ -1,0 +1,11 @@
+.Item {
+    margin: 10px 10px;
+    box-sizing: border-box;
+    display: block;
+    color: #fff;
+}
+
+.Item:hover {
+    color: rgb(30, 255, 0);
+    cursor: pointer;
+}

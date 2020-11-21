@@ -1,0 +1,22 @@
+.SortingVisualizer{
+    box-sizing: border-box;
+    width:  80%;
+    height: 550px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 20px 10px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar{
+    box-sizing: border-box;
+    border: 1px solid #eee;
+    box-shadow: 0 1px 1px rgb(85, 17, 17);
+    width: 5px;
+    margin: 0 1px auto;
+    display: inline-block;
+
+}
